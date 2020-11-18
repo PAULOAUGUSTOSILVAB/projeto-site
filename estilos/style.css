@@ -13,3 +13,26 @@ main {
     margin: auto;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.404);
 }
+h1 {
+    font-size: 2em;
+    color: blue;
+}
+
+h2 {
+    font-size: 1.5em;
+    color: blue;
+}
+
+img.lado {
+    float: right;
+}
+
+a {
+    text-decoration: underline;
+    color: rgb(61, 61, 252);
+}
+
+a:houver {
+    text-decoration: underline;
+    color: rgb(48, 48, 252);
+}
